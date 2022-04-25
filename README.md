@@ -7,3 +7,4 @@ Currently doing the Pildorasinformaticas python´s course. I'ts divided in some 
 	- basic_syntax
 		- functions
 		- lists
+		- tuples
