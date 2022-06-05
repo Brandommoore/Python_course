@@ -10,4 +10,5 @@ Currently doing the Pildorasinformaticas python´s course. I'ts divided in some 
 		- tuples
 		- dictionaries
 	- conditionals
-    - loops
+    - loops 
+    - generators
