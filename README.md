@@ -13,3 +13,4 @@ Currently doing the Pildorasinformaticas python´s course. I'ts divided in some 
     - loops 
     - generators
     - exceptions
+    - OOP
