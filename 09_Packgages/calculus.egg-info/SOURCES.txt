@@ -1,0 +1,7 @@
+setup.py
+calculus/__init__.py
+calculus/general_calculus.py
+calculus.egg-info/PKG-INFO
+calculus.egg-info/SOURCES.txt
+calculus.egg-info/dependency_links.txt
+calculus.egg-info/top_level.txt
